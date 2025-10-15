@@ -69,9 +69,14 @@ LINKAGE
 BASE
 ![PART  2_page-0001](https://github.com/user-attachments/assets/f6805f64-3e49-4664-8cfd-f257789dcc5e)
 
+GEAR LINKAGE
+![PAR5_page-0001](https://github.com/user-attachments/assets/e86ea39d-d172-4dde-99af-efd5a39d6573)
+
 FINGER
 ![PART 1_page-0001](https://github.com/user-attachments/assets/7a6a6125-5c0e-4aa1-9214-94f1b25ddc56)
 
+ASSEMBLED VIEW
+![EX 6 1_page-0001](https://github.com/user-attachments/assets/4dda0a79-dcb5-402d-94de-1032fbebef80)
 
 ## RESULT:
 Thus, a design of various parts of a mechanical component and assemble it using a bottom-up approach in orthographic view has been done
