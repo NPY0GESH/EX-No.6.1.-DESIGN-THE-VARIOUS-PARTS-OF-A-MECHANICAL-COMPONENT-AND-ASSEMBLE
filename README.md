@@ -63,6 +63,8 @@ If the components do not fit properly into the slots, it can be moved into the s
 ![image](https://user-images.githubusercontent.com/113594316/199413636-df0a61ce-964f-490d-9a16-e5986ebbf403.png)
 
 ## OUTPUT:
+LINKAGE
+![PART3_page-0001](https://github.com/user-attachments/assets/d2f71afc-96f1-4a48-812c-f32114be625d)
 
 BASE
 ![PART  2_page-0001](https://github.com/user-attachments/assets/f6805f64-3e49-4664-8cfd-f257789dcc5e)
